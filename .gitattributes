@@ -1,3 +1,4 @@
 articles/Efficient_and_robust_approximate_nearest_neighbor_search_using_Hierarchical_Navigable_Small_World_graphs_Malkov_2016.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ANN-Benchmarks-A_Benchmarking_Tool_for_Approximate_Nearest_Neighbor_Algorithms_Amueller_2018.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Approximate_Nearest_Neighbors-Towards_Removing_the_Curse_of_Dimensionality_Indyk_1998 filter=lfs diff=lfs merge=lfs -text
+articles/SparTerm-Learning_Term-based_Sparse_Representation_for_Fast_Text_Retrieval_Bai_2020.pdf filter=lfs diff=lfs merge=lfs -text
