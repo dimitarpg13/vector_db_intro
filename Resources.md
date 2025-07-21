@@ -21,6 +21,14 @@ MariaDB Vector Search: https://mariadb.org/projects/mariadb-vector/
 
 MongoDB Atlas Vector Search: https://www.mongodb.com/products/platform/atlas-vector-search
 
+DuckDB features: https://duckdb.org/why_duckdb
+
+DuckDB Vector Search: https://duckdb.org/docs/stable/core_extensions/vss
+
+[PixelsDB/pixels:  An efficient storage and compute engine for both on-prem and cloud-native data analytics](https://github.com/pixelsdb/pixels)
+
+Pixeltable Mulitmodal AI store and Vector Database: https://docs.pixeltable.com/docs/datastore/vector-database
+
 ClickHouse: Exact and Approximate Vector Search: https://clickhouse.com/docs/engines/table-engines/mergetree-family/annindexes
 
 [Zilliz: How to Pick a Vector Index in Your Milvus Instance: A Visual Guide, May 14, 2024](https://zilliz.com/learn/how-to-pick-a-vector-index-in-milvus-visual-guide)
