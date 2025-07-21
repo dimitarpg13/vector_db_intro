@@ -27,6 +27,11 @@ ClickHouse: Exact and Approximate Vector Search: https://clickhouse.com/docs/eng
 
 [Vector Similarity Search in DuckDB, Max Gabrielsson, May 2024](https://duckdb.org/2024/05/03/vector-similarity-search-vss.html)
 
+[KuzuDB: Vector Search Extension](https://docs.kuzudb.com/extensions/vector/)
 
+CozoDB on github: https://github.com/cozodb/cozo?tab=readme-ov-file
 
+Hnswlib - fast approximate nearest neighbor search: https://github.com/nmslib/hnswlib
+
+libvictor: fast and embeddable vector search engine written in C: https://github.com/victor-base/libvictor
 
