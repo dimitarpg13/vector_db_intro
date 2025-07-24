@@ -3,3 +3,4 @@ articles/ANN-Benchmarks-A_Benchmarking_Tool_for_Approximate_Nearest_Neighbor_Alg
 articles/Approximate_Nearest_Neighbors-Towards_Removing_the_Curse_of_Dimensionality_Indyk_1998 filter=lfs diff=lfs merge=lfs -text
 articles/SparTerm-Learning_Term-based_Sparse_Representation_for_Fast_Text_Retrieval_Bai_2020.pdf filter=lfs diff=lfs merge=lfs -text
 articles/An_Analysis_of_Fusion_Functions_for_Hybrid_Retrieval_Bruch_2023.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Foundations_of_Vector_Retrieval_Bruch_2024.pdf filter=lfs diff=lfs merge=lfs -text
