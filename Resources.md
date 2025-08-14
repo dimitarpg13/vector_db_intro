@@ -41,5 +41,12 @@ CozoDB on github: https://github.com/cozodb/cozo?tab=readme-ov-file
 
 Hnswlib - fast approximate nearest neighbor search: https://github.com/nmslib/hnswlib
 
+## Text Splitting and Chunking Strategies
+
+[The 5 Levels Of Text Splitting For Retrieval, Greg Kamradt, August, 2024 (youtube video)](https://youtu.be/8OJC21T2SL4?si=wAVfOfdZ9hs0W1Qq)
+
+[Is Semantic Chunking Worth the Computational Cost? R. Qu et al, 2024](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/chunking/Is_Semantic_Chunking_Worth_the_Computational_Cost_Qu_2024.pdf)
+
+
 libvictor: fast and embeddable vector search engine written in C: https://github.com/victor-base/libvictor
 
