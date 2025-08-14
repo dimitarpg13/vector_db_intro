@@ -5,3 +5,4 @@ articles/SparTerm-Learning_Term-based_Sparse_Representation_for_Fast_Text_Retrie
 articles/An_Analysis_of_Fusion_Functions_for_Hybrid_Retrieval_Bruch_2023.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Foundations_of_Vector_Retrieval_Bruch_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/From_distillation_to_hard_negative_sampling-Making_sparse_neural_ir_models_more_effective_Formal_2022.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Leveraging_Semantic_and_Lexical_Matching_to_Improve_the_Recall_of_Document_Retrieval_Systems-A_Hybrid_Approach_Kuzi_2020.pdf filter=lfs diff=lfs merge=lfs -text
