@@ -59,3 +59,5 @@ libvictor: fast and embeddable vector search engine written in C: https://github
 
 [SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking, T. Formal et al, 2021](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/Splade-Sparse_lexical_and_expansion_model_for_first_stage_ranking_Formal_2021.pdf)
 
+[Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs, Y. Malkov et al, 2016](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/Efficient_and_robust_approximate_nearest_neighbor_search_using_Hierarchical_Navigable_Small_World_graphs_Malkov_2016.pdf)
+
