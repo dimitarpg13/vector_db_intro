@@ -41,6 +41,12 @@ CozoDB on github: https://github.com/cozodb/cozo?tab=readme-ov-file
 
 Hnswlib - fast approximate nearest neighbor search: https://github.com/nmslib/hnswlib
 
+## Embedding Techniques
+
+[Distributed Representations of Words and Phrases and their Compositionality, Thomas Mikolov et al, Google, 2013](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/embeddings/Distributed_Representations_of_Words%20and_Phrases_and_their_Compositionality_Mikolov_2013.pdf)
+
+[Efficient Estimation of Word Representations in Vector Space, Thomas Mikolov et al, Google, 2013](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/embeddings/Efficient_Estimation_of_Word_Representations_in_Vector_Space_Mikolov_2013.pdf)
+
 ## Text Splitting and Chunking Strategies
 
 [The 5 Levels Of Text Splitting For Retrieval, Greg Kamradt, August, 2024 (youtube video)](https://youtu.be/8OJC21T2SL4?si=wAVfOfdZ9hs0W1Qq)
