@@ -41,5 +41,31 @@ CozoDB on github: https://github.com/cozodb/cozo?tab=readme-ov-file
 
 Hnswlib - fast approximate nearest neighbor search: https://github.com/nmslib/hnswlib
 
+## Embedding Techniques
+
+[Distributed Representations of Words and Phrases and their Compositionality, Thomas Mikolov et al, Google, 2013](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/embeddings/Distributed_Representations_of_Words%20and_Phrases_and_their_Compositionality_Mikolov_2013.pdf)
+
+[Efficient Estimation of Word Representations in Vector Space, Thomas Mikolov et al, Google, 2013](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/embeddings/Efficient_Estimation_of_Word_Representations_in_Vector_Space_Mikolov_2013.pdf)
+
+## Text Splitting and Chunking Strategies
+
+[The 5 Levels Of Text Splitting For Retrieval, Greg Kamradt, August, 2024 (youtube video)](https://youtu.be/8OJC21T2SL4?si=wAVfOfdZ9hs0W1Qq)
+
+[Is Semantic Chunking Worth the Computational Cost? R. Qu et al, 2024](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/chunking/Is_Semantic_Chunking_Worth_the_Computational_Cost_Qu_2024.pdf)
+
+
 libvictor: fast and embeddable vector search engine written in C: https://github.com/victor-base/libvictor
+
+
+## Articles on Vector Retrieval
+
+[Foundations of Vector Retrieval, S. Bruch, 2024](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/Foundations_of_Vector_Retrieval_Bruch_2024.pdf)
+
+[Natural Language Processing for Semantic Search, James Briggs, Pinecone, online course book](https://www.pinecone.io/learn/series/nlp/)
+
+[An Approximate Algorithm for Maximum Inner Product Search over Steaming Sparse Vectors, S. Bruch et al, Pinecone, 2023](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/An_Approximate_Algorithm_for_Maximum_Inner_Product_Search_over_Streaming_Sparse_Vectors_Bruch_2023.pdf)
+
+[SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking, T. Formal et al, 2021](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/Splade-Sparse_lexical_and_expansion_model_for_first_stage_ranking_Formal_2021.pdf)
+
+[Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs, Y. Malkov et al, 2016](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/Efficient_and_robust_approximate_nearest_neighbor_search_using_Hierarchical_Navigable_Small_World_graphs_Malkov_2016.pdf)
 
