@@ -47,6 +47,8 @@ Hnswlib - fast approximate nearest neighbor search: https://github.com/nmslib/hn
 
 [Efficient Estimation of Word Representations in Vector Space, Thomas Mikolov et al, Google, 2013](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/embeddings/Efficient_Estimation_of_Word_Representations_in_Vector_Space_Mikolov_2013.pdf)
 
+["King - man + woman = queen" is fake news, Mike Cohen's substack blog, Oct 12, 2025](https://mikexcohen.substack.com/p/king-man-woman-queen-is-fake-news)
+
 ## Text Splitting and Chunking Strategies
 
 [The 5 Levels Of Text Splitting For Retrieval, Greg Kamradt, August, 2024 (youtube video)](https://youtu.be/8OJC21T2SL4?si=wAVfOfdZ9hs0W1Qq)
