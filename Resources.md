@@ -71,3 +71,4 @@ libvictor: fast and embeddable vector search engine written in C: https://github
 
 [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs, Y. Malkov et al, 2016](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/Efficient_and_robust_approximate_nearest_neighbor_search_using_Hierarchical_Navigable_Small_World_graphs_Malkov_2016.pdf)
 
+[The Probabilistic Relevance Framework: BM25 and Beyond, SE Robertson et al, 2009](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/embeddings/The_Probabilistic_Relevance_Framework-BM25_and_Beyond_Robertson_2009.pdf)
