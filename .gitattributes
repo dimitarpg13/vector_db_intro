@@ -19,3 +19,4 @@ articles/ann/ filter=lfs diff=lfs merge=lfs -text
 articles/indexing/ filter=lfs diff=lfs merge=lfs -text
 articles/Poisson_models/Bivariate_Mixed_Poisson_Regression_Models_with_Varying_Dispersion_Tzougas_2021.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Poisson_models/Distribution_of_The_Ratio_of_Two_Poisson_Random_Variables_Griffin_1992.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Poisson_models/Probability_Models_for_Information_Retrieval_based_on_Divergence_from_Randomness_Amati_2003_PhD_Thesis.pdf filter=lfs diff=lfs merge=lfs -text
