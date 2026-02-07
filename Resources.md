@@ -77,7 +77,7 @@ libvictor: fast and embeddable vector search engine written in C: https://github
 
 [Tutorial: Write You A Vector Database, skyzh.github.io](https://skyzh.github.io/write-you-a-vector-db/)
 
-gitrepo for the tutorial: https://github.com/skyzh/bustub-vectordb
+    github repo for the tutorial: https://github.com/skyzh/bustub-vectordb
 
 [FAISS: The Missing Manual, James Briggs, Pinecone](https://www.pinecone.io/learn/series/faiss/)
 
