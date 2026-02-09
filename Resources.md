@@ -73,6 +73,10 @@ libvictor: fast and embeddable vector search engine written in C: https://github
 
 [The Probabilistic Relevance Framework: BM25 and Beyond, SE Robertson et al, 2009](https://github.com/dimitarpg13/vector_db_intro/blob/main/articles/embeddings/The_Probabilistic_Relevance_Framework-BM25_and_Beyond_Robertson_2009.pdf)
 
+### Vector Search and Approximate Nearest Neighbor Search
+
+[Vector Search & Approximate Nearest Neighbors (ANN) | FAISS (HNSW & IVF), M. Zaki, Feb. 1st, 2025 (youtube video)](https://www.youtube.com/watch?v=chz74Mtd1AA)
+
 ## Tutorials on Vector DBs and Vector Retrieval
 
 [Tutorial: Write You A Vector Database, skyzh.github.io](https://skyzh.github.io/write-you-a-vector-db/)
