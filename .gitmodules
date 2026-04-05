@@ -1,3 +1,6 @@
 [submodule "examples/bustub-vectordb"]
 	path = examples/bustub-vectordb
 	url = https://github.com/dimitarpg13/bustub-vectordb.git
+[submodule "ann_intro"]
+	path = ann_intro
+	url = https://github.com/dimitarpg13/ann_intro
